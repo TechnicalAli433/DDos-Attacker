@@ -17,11 +17,11 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### ScreenShot 
 
-![capture](https://user-images.githubusercontent.com/33704360/38769260-91bfc362-3fb4-11e8-86c6-d5a3ca13c31a.PNG)
+![capture](https://raw.githubusercontent.com/TechnicalAli433/DDos-Attacker/master/IMG_20200220_031739.png)
 
 ### YouTube channel
 
-https://www.youtube.com/c/HA-MRX
+https://www.youtube.com/c/TechnicalAli433
 
 ### Video Tutorial
 
